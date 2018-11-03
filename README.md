@@ -4,15 +4,17 @@ SCI
 Shifts in timing of Local Growing Season in China during 1961-2012, 2018:Xia Jiangjiang, Jin Shaofei, Yan Zhongwei, Xiong Zhe, Zheng Ziyan, Han Zuoqiang, 2018, Theoretical and Applied Climatology, accept on 31 Oct, 2018. 
 
 (9) 通讯作者
- Yu Shuang, Xia Jiangjiang, Yan Zhongwei, Zhang Anzhi, Xia Yang, Guan Dabo, Han Jiarui, Wang Jun, Chen Liang, Liu Yakun, 2019, Loss of work productivity in a warming world: Differences between developed and developing countries, Journal of Cleaner Production, 208 (1219-1225)
+Yu Shuang, Xia Jiangjiang, Yan Zhongwei, Zhang Anzhi, Xia Yang, Guan Dabo, Han Jiarui, Wang Jun, Chen Liang, Liu Yakun, 2019, Loss of work productivity in a warming world: Differences between developed and developing countries, Journal of Cleaner Production, 208 (1219-1225)
  
 (8) 通讯作者
 Yu shuang, Xia Jiangjiang , Yan Zhongwei, Yang Kun, 2018: Changing spring phenology dates in the Three-Rivers Headwater Region of Tibetan Plateau during 1960-2013. Advances in Atmospheric Sciences, 35 (1), 116-126 doi: 10.1007/s00376-017-6296-y. 
 
  (7) 通讯作者
-Pei Lin, Xia Jiangjiang, Yan Zhongwei, Yang Hui, 2016: Assessment of the Pacific decadal oscillation’s contribution to the occurrence of local rainfall in north China, Climatic Change, 144 (3), 391-403, doi: 10.1007/s10584-016-1610-8.
+ 
+ Pei Lin, Xia Jiangjiang, Yan Zhongwei, Yang Hui, 2016: Assessment of the Pacific decadal oscillation’s contribution to the occurrence of local rainfall in north China, Climatic Change, 144 (3), 391-403, doi: 10.1007/s10584-016-1610-8.
+ 
  (6) 
-Xia, Jiangjiang, Tu Kai, Yan Zhongwei, Qi Yajie, 2016: The super-heat wave in eastern China during July-August 2013: a perspective of climate change. International Journal Climatology, 36 (3), 1291-1298, doi: 10.1002/joc.4424.
+ Xia, Jiangjiang, Tu Kai, Yan Zhongwei, Qi Yajie, 2016: The super-heat wave in eastern China during July-August 2013: a perspective of climate change. International Journal Climatology, 36 (3), 1291-1298, doi: 10.1002/joc.4424.
 (5) 
 Xia, Jiangjiang, Yan Zhongwei, Zhou Wen, et al., 2015: Projection of the Zhujiang (Pearl) River Delta's potential submerged are due to sea level rise during the 21st century based on CMIP5 simulations. Acta Oceanologica Sinica, 34 (9), 78-84, doi: 10.1007/s13131-015-0700-1.
 (4) 
