@@ -4,7 +4,7 @@ Part I  SCI
 
 (10) 
 
-Shifts in timing of Local Growing Season in China during 1961-2012, 2018:Xia Jiangjiang, Jin Shaofei, Yan Zhongwei, Xiong Zhe, Zheng Ziyan, Han Zuoqiang, 2018, Theoretical and Applied Climatology, accept on 31 Oct, 2018. 
+Xia Jiangjiang, Jin Shaofei, Yan Zhongwei, Xiong Zhe, Zheng Ziyan, Han Zuoqiang, 2018： Shifts in timing of Local Growing Season in China during 1961-2012，Theoretical and Applied Climatology, accepted on 31 Oct, 2018. 
 
 (9) 通讯作者
 
