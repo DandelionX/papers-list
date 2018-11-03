@@ -2,10 +2,13 @@
 SCI
 (10) 
 Shifts in timing of Local Growing Season in China during 1961-2012, 2018:Xia Jiangjiang, Jin Shaofei, Yan Zhongwei, Xiong Zhe, Zheng Ziyan, Han Zuoqiang, 2018, Theoretical and Applied Climatology, accept on 31 Oct, 2018. 
+
 (9) 通讯作者
  Yu Shuang, Xia Jiangjiang, Yan Zhongwei, Zhang Anzhi, Xia Yang, Guan Dabo, Han Jiarui, Wang Jun, Chen Liang, Liu Yakun, 2019, Loss of work productivity in a warming world: Differences between developed and developing countries, Journal of Cleaner Production, 208 (1219-1225)
+ 
 (8) 通讯作者
 Yu shuang, Xia Jiangjiang , Yan Zhongwei, Yang Kun, 2018: Changing spring phenology dates in the Three-Rivers Headwater Region of Tibetan Plateau during 1960-2013. Advances in Atmospheric Sciences, 35 (1), 116-126 doi: 10.1007/s00376-017-6296-y. 
+
  (7) 通讯作者
 Pei Lin, Xia Jiangjiang, Yan Zhongwei, Yang Hui, 2016: Assessment of the Pacific decadal oscillation’s contribution to the occurrence of local rainfall in north China, Climatic Change, 144 (3), 391-403, doi: 10.1007/s10584-016-1610-8.
  (6) 
