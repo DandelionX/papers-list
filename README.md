@@ -1,5 +1,15 @@
 发表论文清单
 
+第一作者/通讯作者，SCI论文： 10篇
+
+第一作者/通讯作者，CSCD论文：7篇
+
+其他合作作者论文：11篇
+
+
+Paper list：
+
+
 Part I  SCI
 
 (10) 
@@ -77,9 +87,18 @@ Xia Jiangjiang, Yan Zhongwei, Zhou Wen. 2011: Changes in Seasonality in China un
 
 Part III others
 
-(9) 
+(11) 
 
 Wang Jun, Chen Yang, Simon F B Tett, Yan Zhongwei, Zhai Panmao, Feng Jinming, Xia Jiangjiang, 2018: Anthropogenically-driven increase in risks of summertime compound hot extremes. under review
+
+
+(10)
+
+Zhang Anzhi, Jia Gensuo, Howard E. Epstein, Xia Jiangjiang, 2017: ENSO elicits opposing responses of semi-arid vegetation between Hemispheres, Scientific Reports, 7:42281. 
+
+(9)
+
+Li Chunxiang, Tian Qinhua, Yu Rong, Zhou Baiquan, Xia Jiangjiang, Claire Burke, Buwen Dong, Simon F B Tett, Nicolas Freychet, Fraser Lott and Andrew Ciavarella, 2018: Attribution of extreme precipitation in the lower reaches of the Yangtze River during May 2016, Environmental Research Letters, 13: 014015
 
 (8) 
 
