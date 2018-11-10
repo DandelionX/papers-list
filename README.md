@@ -18,7 +18,7 @@ Xia Jiangjiang, Jin Shaofei, Yan Zhongwei, Xiong Zhe, Zheng Ziyan, Han Zuoqiang,
 
 (9) 通讯作者
 
-Yu Shuang, Xia Jiangjiang, Yan Zhongwei, Zhang Anzhi, Xia Yang, Guan Dabo, Han Jiarui, Wang Jun, Chen Liang, Liu Yakun, 2019, Loss of work productivity in a warming world: Differences between developed and developing countries, Journal of Cleaner Production, 208 (1219-1225)
+Yu Shuang, Xia Jiangjiang, Yan Zhongwei, Zhang Anzhi, Xia Yang, Guan Dabo, Han Jiarui, Wang Jun, Chen Liang, Liu Yakun, 2019, Loss of work productivity in a warming world: Differences between developed and developing countries, Journal of Cleaner Production, 208 (1219-1225), https://doi.org/10.1016/j.jclepro.2018.10.067
  
 (8) 通讯作者
 
