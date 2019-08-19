@@ -1,10 +1,19 @@
-发表论文清单
+# Machine learning
 
-第一作者/通讯作者，SCI论文： 10篇
 
-第一作者/通讯作者，CSCD论文：7篇
+(5) Li Haochen, Yu Chen, Xia Jiangjiang, Wang Yingchun, Zhu Jiang, Zhang Pingwen, 2019: A Model Output Machine Learning Method for Grid Temperature Forecasts in the Beijing Area, Advances in Atmospheric Sciences, 36(10): 1156-1170. http://www.iapjournals.ac.cn/aas/en/article/doi/10.1007/s00376-019-9023-z
 
-其他合作作者论文：11篇
+(4) Tong Xuan, Yan Zhongwei, Xia Jiangjiang, Lou Xiao, 2019: Decisive Atmospheric Circulation Indices for July–August Precipitation in North China Based on Tree Models, Journal of Hydrometeorology, https://doi.org/10.1175/JHM-D-19-0045.1
+
+(3) Gao Lihao, Wei Fengying, Yan Zhongwei, Ma Jin and Xia jiangjiang, 2019: A study of objective patterns over Eastern China Based on A multinomial Logistic Regression Model, Atmosphere, 10:213, doi: 10.3390/atmos10040213. https://app.dimensions.ai/details/publication/pub.1113634491
+
+(2) 孙全德，焦瑞莉，夏江江，严中伟，李昊辰，孙建华，王立志，梁钊明，2019：基于机器学习的数值天气预报风速订正研究，气象，45（3）：426-436.
+
+(1) 门晓磊，焦瑞莉，王鼎， 赵晨光，刘亚昆，夏江江，李昊辰，严中伟，孙建华，王立志，2019：基于机器学习的华北气温多模式集合预报的订正方法，气候与环境研究，24（1）：116-124.
+
+
+
+# None-machine learning
 
 
 Paper list：
@@ -56,13 +65,7 @@ Yan Zhongwei, Xia Jiangjiang, Qian Cheng, Zhou Wen, 2011: Changes in Seasonal Cy
 
 Part II  CSCD
 
-(7) 通讯作者
 
-孙全德，焦瑞莉，夏江江，严中伟，李昊辰，孙建华，王立志，梁钊明，2018：基于机器学习的数值天气预报风速订正研究，气象（已接收）
-
-(6) 通讯作者
-
-门晓磊，焦瑞莉，王鼎， 赵晨光，刘亚昆，夏江江，李昊辰，严中伟，孙建华，王立志，基于机器学习的华北气温多模式集合预报的订正方法
 
 (5) 通讯作者
 
