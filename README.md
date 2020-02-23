@@ -1,6 +1,10 @@
 # Machine learning
 
 
+(7) Xia Jiangjiang, Li Haochen, Kang Yanyan, Yu Chen, Ji Lei, Wu Lue, Lou Xiao, Zhu Guangxiang, Wang Zaiwen Wang, Yan Zhongwei YAN, Wang Lizhi, Zhu Jiang, Zhang Pingwen, Ji Chongping, Chen Min, Zhang Yingxin, Gao Lihao, and Han Jiarui, 2020: Machine-learning-based weather support for 2022 Winter Olympics. Advances in Atmospheric Physics, under review.
+
+(6) Yu Chen, Li Haochen, Xia Jiangjiang, Wen Hanqiuzi, and Zhang Pingwen, 2020: A data-driven random subfeature ensemble learning algorithm for weather forecasting. Communications in Computational Physics, To be contributed.
+
 (5) Li Haochen, Yu Chen, Xia Jiangjiang, Wang Yingchun, Zhu Jiang, Zhang Pingwen, 2019: A Model Output Machine Learning Method for Grid Temperature Forecasts in the Beijing Area, Advances in Atmospheric Sciences, 36(10): 1156-1170. http://www.iapjournals.ac.cn/aas/en/article/doi/10.1007/s00376-019-9023-z
 
 (4) Tong Xuan, Yan Zhongwei, Xia Jiangjiang, Lou Xiao, 2019: Decisive Atmospheric Circulation Indices for July–August Precipitation in North China Based on Tree Models, Journal of Hydrometeorology, https://doi.org/10.1175/JHM-D-19-0045.1
@@ -20,6 +24,10 @@ Paper list：
 
 
 Part I  SCI
+
+
+
+
 
 (10) 
 
@@ -90,9 +98,25 @@ Xia Jiangjiang, Yan Zhongwei, Zhou Wen. 2011: Changes in Seasonality in China un
 
 Part III others
 
+
+(14)
+
+Tian Yalin, Li zhen, Yan Zhongwei,  and Xia Jiangjiang, 2020: Spatial and temporal variations of extreme precipitation in Central Asia over the past 40 years. To be contributed.
+
+
+(13)
+
+Zheng Dexiang, Zhang Heng, Yuan Yuze, Deng Zhong, Wang Ku, Lin Geng, Chen Yi, Xia Jiangjiang, and Jin Shaofei, 2020: Naural disasters and their impacts on the silica losses from agriculture in China from 1988 to 2016. Physics and Chemistry of the Earth. Accepted
+
+
+(12)
+
+He Xiaodong, Wang Jun, Feng Jinming, Yan Zhongwei, Miao Shiguang, ZHang Yizhou, and Xia Jiangjiang, 2020: Observational and modeling study of interactions between urban heat island and heatwave in Beijing, Journal of Cleaner Production. https://doi.org/10.1016/j.jclepro.2019.119169
+
+
 (11) 
 
-Wang Jun, Chen Yang, Simon F B Tett, Yan Zhongwei, Zhai Panmao, Feng Jinming, Xia Jiangjiang, 2018: Anthropogenically-driven increase in risks of summertime compound hot extremes. under review
+Wang Jun, Chen Yang, Simon F B Tett, Yan Zhongwei, Zhai Panmao, Feng Jinming, Xia Jiangjiang, 2020: Anthropogenically-driven increase in risks of summertime compound hot extremes. Nature Communications.
 
 
 (10)
