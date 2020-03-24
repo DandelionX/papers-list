@@ -17,6 +17,12 @@
 
 
 
+会议：
+
+https://meetingorganizer.copernicus.org/EGU2020/EGU2020-10463.html
+
+
+
 # None-machine learning
 
 
