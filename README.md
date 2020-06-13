@@ -1,7 +1,11 @@
 # Machine learning
 
 
-(7) Xia Jiangjiang, Li Haochen, Kang Yanyan, Yu Chen, Ji Lei, Wu Lue, Lou Xiao, Zhu Guangxiang, Wang Zaiwen Wang, Yan Zhongwei YAN, Wang Lizhi, Zhu Jiang, Zhang Pingwen, Ji Chongping, Chen Min, Zhang Yingxin, Gao Lihao, and Han Jiarui, 2020: Machine-learning-based weather support for 2022 Winter Olympics. Advances in Atmospheric Physics, under review.
+(9) 孟欣宁，焦瑞莉，刘念，夏江江(corresponding author)，严中伟，于爽，娄晓，李昊辰，王立志，陈亮，郑子彦，赵娜，2020：基于随机森林插值分析的中亚夏季极端高温变化特征，干旱区研究，已接收
+
+(8) 武略，焦瑞莉，王毅，夏江江(corresponding author)，严中伟，李昊辰，余晨，2020：北京地区体感温度误差订正方法研究，气象科学，已接收
+
+(7) Xia Jiangjiang(corresponding author), Li Haochen, Kang Yanyan, Yu Chen, Ji Lei, Wu Lue, Lou Xiao, Zhu Guangxiang, Wang Zaiwen Wang, Yan Zhongwei YAN, Wang Lizhi, Zhu Jiang, Zhang Pingwen, Ji Chongping, Chen Min, Zhang Yingxin, Gao Lihao, and Han Jiarui, 2020: Machine-learning-based weather support for 2022 Winter Olympics. Advances in Atmospheric Physics, http://www.iapjournals.ac.cn/aas/en/article/doi/10.1007/s00376-020-0043-5.
 
 (6) Yu Chen, Li Haochen, Xia Jiangjiang, Wen Hanqiuzi, and Zhang Pingwen, 2020: A data-driven random subfeature ensemble learning algorithm for weather forecasting. Communications in Computational Physics, To be contributed.
 
@@ -11,9 +15,9 @@
 
 (3) Gao Lihao, Wei Fengying, Yan Zhongwei, Ma Jin and Xia jiangjiang, 2019: A study of objective patterns over Eastern China Based on A multinomial Logistic Regression Model, Atmosphere, 10:213, doi: 10.3390/atmos10040213. https://app.dimensions.ai/details/publication/pub.1113634491
 
-(2) 孙全德，焦瑞莉，夏江江，严中伟，李昊辰，孙建华，王立志，梁钊明，2019：基于机器学习的数值天气预报风速订正研究，气象，45（3）：426-436.
+(2) 孙全德，焦瑞莉，夏江江(corresponding author)，严中伟，李昊辰，孙建华，王立志，梁钊明，2019：基于机器学习的数值天气预报风速订正研究，气象，45（3）：426-436.
 
-(1) 门晓磊，焦瑞莉，王鼎， 赵晨光，刘亚昆，夏江江，李昊辰，严中伟，孙建华，王立志，2019：基于机器学习的华北气温多模式集合预报的订正方法，气候与环境研究，24（1）：116-124.
+(1) 门晓磊，焦瑞莉，王鼎， 赵晨光，刘亚昆，夏江江(corresponding author)，李昊辰，严中伟，孙建华，王立志，2019：基于机器学习的华北气温多模式集合预报的订正方法，气候与环境研究，24（1）：116-124.
 
 
 
@@ -30,8 +34,6 @@ Paper list：
 
 
 Part I  SCI
-
-
 
 
 
