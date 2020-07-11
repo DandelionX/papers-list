@@ -1,5 +1,6 @@
 # Machine learning
 
+(10) Kong Wenjia, Li Haochen, Yu Chen, Xia Jiangjiang, Kang Yanyan, and Zhang Pingwen, 2020: A deep spatio-temporal forecasting model for multi-site ensemble weather prediction. To be contributed. 
 
 (9) 孟欣宁，焦瑞莉，刘念，夏江江(corresponding author)，严中伟，于爽，娄晓，李昊辰，王立志，陈亮，郑子彦，赵娜，2020：基于随机森林插值分析的中亚夏季极端高温变化特征，干旱区研究，已接收
 
