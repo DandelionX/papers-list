@@ -8,7 +8,7 @@
 
 (7) Xia Jiangjiang(corresponding author), Li Haochen, Kang Yanyan, Yu Chen, Ji Lei, Wu Lue, Lou Xiao, Zhu Guangxiang, Wang Zaiwen Wang, Yan Zhongwei YAN, Wang Lizhi, Zhu Jiang, Zhang Pingwen, Ji Chongping, Chen Min, Zhang Yingxin, Gao Lihao, and Han Jiarui, 2020: Machine-learning-based weather support for 2022 Winter Olympics. Advances in Atmospheric Physics, http://www.iapjournals.ac.cn/aas/en/article/doi/10.1007/s00376-020-0043-5.
 
-(6) Yu Chen, Li Haochen, Xia Jiangjiang, Wen Hanqiuzi, and Zhang Pingwen, 2020: A data-driven random subfeature ensemble learning algorithm for weather forecasting. Communications in Computational Physics, To be contributed.
+(6) Yu Chen, Li Haochen, Xia Jiangjiang, Wen Hanqiuzi, and Zhang Pingwen, 2020: A data-driven random subfeature ensemble learning algorithm for weather forecasting. Communications in Computational Physics. (in press)
 
 (5) Li Haochen, Yu Chen, Xia Jiangjiang, Wang Yingchun, Zhu Jiang, Zhang Pingwen, 2019: A Model Output Machine Learning Method for Grid Temperature Forecasts in the Beijing Area, Advances in Atmospheric Sciences, 36(10): 1156-1170. http://www.iapjournals.ac.cn/aas/en/article/doi/10.1007/s00376-019-9023-z
 
