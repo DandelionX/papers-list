@@ -1,3 +1,6 @@
+See also Research Gate:  https://www.researchgate.net/profile/Jiangjiang_Xia
+
+
 # Machine learning
 
 (10) Kong Wenjia, Li Haochen, Yu Chen, Xia Jiangjiang, Kang Yanyan, and Zhang Pingwen, 2020: A deep spatio-temporal forecasting model for multi-site ensemble weather prediction. To be contributed. 
