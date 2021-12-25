@@ -2,6 +2,12 @@ See also Research Gate:  https://www.researchgate.net/profile/Jiangjiang_Xia
 
 # 2021
 
+Zhou Chuansai, Li Haochen, Yu Chen, Xia Jiangjiang, Zhang Pingwen, 2021: A station-Data-Based Model Residual Machine Learning Method for Fine-Grained Meteorological Grid Prediction. Applied Mathematics and Mechanics-Englishi Edition. 
+
+Zheng Ziyan, Yan Zhongwei, Chen Jing, Han Jiarui, Xia Jiangjiang, Zhang Xiaohong, Cai Siyu, LiuXiaolin, 2021: Evolving Threshold of Flood-Leading Precipitation in a User-Oriented Forecast System Based on the TIGGE Dataset. Frontiers in Earth Science, doi: 10.3389/feart.2021.703024
+
+Li Wentao, Pan Baoxiang, Xia Jiangjiang, Duan Qingyun, 2021: Convolutional neural network-based statistical post-processing of ensemble precipiatation forecast. Journaly of Hydrology,605, 127301,  https://doi.org/10.1016/j.jhydrol.2021.127301
+
 Kong Wenjia, Li Haochen, Yu Chen, Xia Jiangjiang, Kang Yanyan, and Zhang Pingwen, 2020: A deep spatio-temporal forecasting model for multi-site ensemble weather prediction. To be contributed.
 
 武略，焦瑞莉，王毅，夏江江(corresponding author)，严中伟，李昊辰，余晨，2020：北京地区体感温度误差订正方法研究，气象科学，已接收
