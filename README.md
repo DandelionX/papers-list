@@ -2,6 +2,8 @@ See also Research Gate:  https://www.researchgate.net/profile/Jiangjiang_Xia
 
 # 2021
 
+Duan Mingshan, Xia Jiangjiang, Yan Zhongwei, Han Lei, Zhang Lejian, Xia Hanmeng, Lou Xiao, Yu Shuang, Yuan Zhen, 2021: Radar reflectivity of convective storms reconstruction based on deep learning and Himawari-8 observations, Remote Sensing, 13, 3330, doi: 10.3390/rs13163330.
+
 Zhou Chuansai, Li Haochen, Yu Chen, Xia Jiangjiang, Zhang Pingwen, 2021: A station-Data-Based Model Residual Machine Learning Method for Fine-Grained Meteorological Grid Prediction. Applied Mathematics and Mechanics-Englishi Edition. 
 
 Zheng Ziyan, Yan Zhongwei, Chen Jing, Han Jiarui, Xia Jiangjiang, Zhang Xiaohong, Cai Siyu, LiuXiaolin, 2021: Evolving Threshold of Flood-Leading Precipitation in a User-Oriented Forecast System Based on the TIGGE Dataset. Frontiers in Earth Science, doi: 10.3389/feart.2021.703024
