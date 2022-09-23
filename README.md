@@ -1,8 +1,9 @@
 See also Research Gate:  https://www.researchgate.net/profile/Jiangjiang_Xia
 
 # 2022
+Wei Wenguang, Yan Zhongwei, Tong Xuan, Han Zuoqiang, Ma Miaomiao, Yu Shuang, Xia Jiangjiang, 2022: Seasonal prediction of summer extreme precipiation over the Yangtze River based on random forest. Weather and Climate Extremes, 37, 100477.
 
-Liu N, Z W Yan, X Tong, et al., 2022: Meshless Surface Wind Speed Field Reconstruction based on Machine Learning. Advances in Atmospheric Physics, doi: 10.1007/s00376-022-1343-8.
+Liu Nian, Yan Zhongwei, Tong Xuan, Jiang Jiang, Li Haochen, Xia Jiangjiang, Lou Xiao, Ren Rui, Fang Yi, 2022: Meshless Surface Wind Speed Field Reconstruction based on Machine Learning. Advances in Atmospheric Physics, 39(10),1721-1733. doi: 10.1007/s00376-022-1343-8.
 
 Kong Wenjia, Li Haochen, Yu Chen, Xia Jiangjiang, Kang Yanyan, and Zhang Pingwen, 2022: A deep spatio-temporal forecasting model for multi-site ensemble weather prediction. Communications In Computational Physics, 31(1), 131-153.《Commun. Comput. Phys.》
 
