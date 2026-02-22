@@ -1,6 +1,23 @@
 See also Research Gate:  https://www.researchgate.net/profile/Jiangjiang_Xia
 
+# 2026
+
+Xiaodan Chen, Fei Zheng, Jiangjiang Xia, Jiang Zhu, Y Shu, D Liu，2026：High-resolution regional SST AI downscaling based on multi-mode inputs from nested ROMS simulations Machine Learning: Science and Technology 7 (1), 015003
+
+Jingjia Luo, Jiangjiang Xia, Baoxiang Pan, YG Ham, X Li, W Shanguan, W Xue, Y Wang, B Mu, et al., AI for atmosphere-ocean sciences: advancements, challenges, and ways forward National Science Review, nwag063
+
+Tianye Li, Qi Liu, Hao Li, Lei Chen, Wencong Cheng, Fei Zheng, Xiangao Xia, Ya Wang, Gang Huang, et al., Searth Transformer: A Transformer Architecture Incorporating Earth's Geospheric Physical Priors for Global Mid-Range Weather Forecasting, arXiv preprint arXiv:2601.09467
+
 # 2025
+
+Ziying Xuan, Fei Zheng, Jiangjiang Xia, Jiang Zhu, Improving the Assimilation Ability for the Extreme Events by Proposing a Nonlinear Machine Learning Data Assimilation Approach
+Geophysical Research Letters 52 (21), e2025GL118319
+
+Ziqing Zu, Mu Mu, Jiangjiang Xia, Q Wang, An Extension of Conditional Nonlinear Optimal Perturbation in the Time Dimension and Its Applications in Targeted Observations
+Advances in Atmospheric Sciences 42 (9), 1783-1797
+
+Chaoying Wang, Rubin Jiang, Jiangjiang Xia, Yunfei Wu, Hongrong Shi, F Li, Xiangao Xia, Infrared brightness temperature–based indicators for identifying thunderstorm clouds: Insights from FY-4A satellite observations, Atmospheric and Oceanic Science Letters, 100658
+
 Ziqing Zu; Jiangjiang Xia(corresponding author);Xueming Zhu; Marie Zhu;Huier Mo;Xiao Lou;Qian Zhou;Yunfei Zhang; Qing Yang; How Do Deep Learning Forecasting Models Perform for Surface Variables in the South China Sea Compared to Operational Oceanography Forecasting Systems?, Advances in Atmospheric Sciences, 2025, 42(1): 178-189
 
 # 2024
