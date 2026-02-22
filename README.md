@@ -1,5 +1,30 @@
 See also Research Gate:  https://www.researchgate.net/profile/Jiangjiang_Xia
 
+# 2025
+Ziqing Zu; Jiangjiang Xia(corresponding author);Xueming Zhu; Marie Zhu;Huier Mo;Xiao Lou;Qian Zhou;Yunfei Zhang; Qing Yang; How Do Deep Learning Forecasting Models Perform for Surface Variables in the South China Sea Compared to Operational Oceanography Forecasting Systems?, Advances in Atmospheric Sciences, 2025, 42(1): 178-189
+
+# 2024
+Wencong Cheng; Jiangjiang Xia(corresponding author); Chang Qu; Zhigang Wang; Xinyi Zeng; Fang Huang; Tianye Li ; YanTian: An Application Platform for AI Global Weather Forecasting Models, arXiv, 2024
+
+Xuan Tong;Wen Zhou;Jiangjiang Xia; Improving Boreal Summer Precipitation Predictions From the Global NMME Through Res34-Unet, Geophsical Research Letters, 2024, 51(2): e2023GL106391     
+
+Ruyi Yang; Jingyu Hu; Zihao Li; Jianli Mu; Tingzhao Yu; Jiangjiang Xia(corresponding author); Xuhong Li; Aritra Dasgupta; Haoyi Xiong ; Interpretable machine learning for weather and climate prediction: A review, Atmospheric Environment, 2024, 338: 120797-120797
+
+
+# 2023
+Qi Liu; Xiao Lou; Zhongwei Yan; Yajie Qi; Yuchao Jin; Shuang Yu; Xiaoliang Yang; Deming Zhao; Jiangjiang Xia(corresponding author); Deep-learning post-processing of short-term station precipitation based on NWP forecasts, Atmospheric Research, 2023, 295: 107032
+
+Yi Fang; Yunfei Wu; Fengmin Wu; Yan Yan; Qi Liu; Nian Liu; JiangJiang Xia(corresponding author); Short-term wind speed forecasting bias correction in the Hangzhou area of China based on a machine learning model, Atmospheric and Oceanic Science Letters, 2023, 16(4): 100339 
+
+
+Xiaoqi Yu; Xiao Lou; Yan Yan; Zhongwei Yan; Wencong Cheng; Zhibin Wang; Deming Zhao; Jiangjiang Xia(corresponding author); Radar echo reconstruction in oceanic area via deep learning of satellite data, Remote Sensing, 2023, 15(3065) 
+
+Xuan Tong; Zhongwei Yan; Wen Zhou; Jiangjiang Xia; Xiaowei Quan ; Multidecadal Oceanic Modulation of Summer Precipitation in North China in 1200-Year Global Climate Simulations, Journal of Climate, 2023, 36(17): 6125-6138
+
+曾安捷; 华维; 严中伟; 祖子清; 娄晓; 于小淇; 夏江江(corresponding author); 基于深度学习的气象要素时空预报策略——直接预报和迭代预报的对比, 气候与环境研究, 2023, 28(5): 547-558 
+
+
+
 # 2022
 Wei Wenguang, Yan Zhongwei, Tong Xuan, Han Zuoqiang, Ma Miaomiao, Yu Shuang, Xia Jiangjiang, 2022: Seasonal prediction of summer extreme precipiation over the Yangtze River based on random forest. Weather and Climate Extremes, 37, 100477.
 
